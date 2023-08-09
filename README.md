@@ -1,2 +1,2 @@
-# TollStation_MicroServicesApp
-Toll Station System is an Micro Services App for demo.
+# Toll Station Micro Services App
+Toll Station System is a Micro Services App for demo.
